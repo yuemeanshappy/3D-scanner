@@ -6,6 +6,9 @@ Build 3D models with Revopoint Mini 3D scanner
 2. Laptop with RevoScan
 3. 2D axis turning table
 
+![Scan a human statue in a dark ambient condition](https://github.com/yuemeanshappy/3D-scanner/blob/main/gif/dark_env.gif)
+![Scan a rose in a light ambient condition](https://github.com/yuemeanshappy/3D-scanner/blob/main/gif/light_env.gif)
+
 ## Procedure
 1. Connect the 3D scanner and the turning table with a laptop
 2. Light condition setting:
