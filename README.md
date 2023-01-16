@@ -28,6 +28,11 @@ Build 3D models with Revopoint Mini 3D scanner
   - build mesh
   - store the 3D model
 
+<p float="left">
+  <img src="https://github.com/yuemeanshappy/3D-scanner/blob/main/img/dark_bg.jpg" width="250" />
+  <img src="https://github.com/yuemeanshappy/3D-scanner/blob/main/img/white_bg.jpg" width="250" /> 
+</p>
+
 ## Important tricks
 **1. lose track when scanning?**
 - Stop rotation and stay at the original place for a few seconds to let the scanner return to track
@@ -43,6 +48,9 @@ Orange areas means lack of enough points (enough information). There are two app
 - Use tape
 - Use playing dough\
 Make sure the object is at the center of the turning table.
+
+## Some examples
+
 
 ## References
 1. Revopoint User Manual https://support.revopoint3d.com/hc/en-us/categories/6984257114523-MINI
