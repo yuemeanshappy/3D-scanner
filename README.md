@@ -29,19 +29,19 @@ Build 3D models with Revopoint Mini 3D scanner
   - store the 3D model
 
 ## Important tricks
-**1. Lose track when scanning?**
+**1. lose track when scanning?**
 - Stop rotation and stay at the original place for a few seconds to let the scanner return to track
 - But if you are using the 2D axis turning table, click "stop" button would let the truning table stop completely without turning around again. Therefore, once you stop before the end of third round, you have to 1) manually rotate the turning table or 2) ajust the angle of the scanner and then restart from the very beginning.
 
-**2. Have orange areas after fuse cloud points?**\
+**2. have orange areas after fuse cloud points?**\
 Orange areas means lack of enough points (enough information). There are two approaches. The ideas of them is to scan more areas based on the original points.
 - The first approach is keeping the scanner at the same position, manually move the object to fill the holes, then fuse the cloud points again. (This approach works better in dark background where you can catch the object by hand hidding behind the dark cloth.) 
 - The second approach is adjusing the height of the scanner slowly to make sure the scanning is on track, then rotate the turning table manually.
 
-**3. How do I fix the object on the table?"**
+**3. how to fix the object on the table?"**
 - Use foam and needle (but foam will be treated as one part of your 3D model if you put the foam on the turning table)
 - Use tape
-- Use playing dough
+- Use playing dough\
 Make sure the object is at the center of the turning table.
 
 ## References
