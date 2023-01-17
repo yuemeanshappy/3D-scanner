@@ -37,6 +37,7 @@ Build 3D models with Revopoint Mini 3D scanner
 - [a human statue without color](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/3D-scanner/main/models/statue%20without%20color_mesh.ply)
 - [a human statue with color](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/3D-scanner/main/models/statue%20with%20color_mesh_rgb.ply)
 - [a rose with color](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/3D-scanner/main/models/rose%20with%20color_mesh_rgb.ply)
+- [a rose without color, not erect](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/3D-scanner/main/models/rose%20without%20color.ply)
 
 ## Important tricks
 **1. lose track when scanning?**
