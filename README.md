@@ -59,7 +59,7 @@ Make sure the object is at the center of the turning table.
 - To get the texture, we need to take photos around the object every 30 degrees (12 photos in total). Then we need to use the `smart UV object` in Blender to align photos to the 3D model.
 - Detailed descriptions could be found [here](https://forum.revopoint3d.com/t/how-to-texture-your-scans/13023).
 - Comparisons between with vertex color and without vertex color
-!(with and without verted color)[https://github.com/yuemeanshappy/3D-scanner/blob/main/gif/with%20and%20without%20vertex%20color.gif]
+![with and without verted color](https://github.com/yuemeanshappy/3D-scanner/blob/main/gif/with%20and%20without%20vertex%20color.gif)
 
 ## References
 1. Revopoint User Manual https://support.revopoint3d.com/hc/en-us/categories/6984257114523-MINI
