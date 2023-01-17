@@ -54,6 +54,12 @@ Orange areas means lack of enough points (enough information). There are two app
 - Use playing dough\
 Make sure the object is at the center of the turning table.
 
+**4. add texture?**
+- Although we might use color mode to get a colored mesh, it is the color of a collection of numerous vertices not texture.
+- To get the texture, we need to take photos around the object every 30 degrees (12 photos in total). Then we need to use the `smart UV object` in Blender to align photos to the 3D model.
+- Detailed descriptions could be found [here](https://forum.revopoint3d.com/t/how-to-texture-your-scans/13023).
+
+
 ## References
 1. Revopoint User Manual https://support.revopoint3d.com/hc/en-us/categories/6984257114523-MINI
 2. Revopoint Forum https://forum.revopoint3d.com/c/tutorials/21
