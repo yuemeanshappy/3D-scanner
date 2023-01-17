@@ -65,3 +65,7 @@ Make sure the object is at the center of the turning table.
 ## References
 1. Revopoint User Manual https://support.revopoint3d.com/hc/en-us/categories/6984257114523-MINI
 2. Revopoint Forum https://forum.revopoint3d.com/c/tutorials/21
+
+## NEXT?
+1. 3D models at population levels for ancestral color/shape reconstruction (2 species, 10 individuals for each species) 
+2. Can the vertex color be used for color variation analysis? Or does it have to come from texture color?
