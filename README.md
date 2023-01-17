@@ -58,7 +58,7 @@ Make sure the object is at the center of the turning table.
 - Although we might use color mode to get a colored mesh, it is the color of a collection of numerous vertices not texture.
 - To get the texture, we need to take photos around the object every 30 degrees (12 photos in total). Then we need to use the `smart UV object` in Blender to align photos to the 3D model.
 - Detailed descriptions could be found [here](https://forum.revopoint3d.com/t/how-to-texture-your-scans/13023).
-- Comparisons between with vertex color and without vertex color
+- Comparisons between with vertex color (darker one) and without vertex color(lighter one)\
 ![with and without verted color](https://github.com/yuemeanshappy/3D-scanner/blob/main/gif/with%20and%20without%20vertex%20color.gif)
 
 ## References
